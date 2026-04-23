@@ -24,3 +24,84 @@ A fictional RegTech company providing AI governance solutions to enterprises nav
 - SR 11-7 (Model Risk Management)
 
 ## 📂 Repository Structure
+├── 01-governance/
+│ ├── ai-governance-framework.md
+│ ├── risk-appetite-statement.md
+│ └── roles-responsibilities.md
+│
+├── 02-risk-identification/
+│ ├── risk-register.md
+│ ├── agentic-ai-risks.md
+│ ├── model-risks.md
+│ └── regulatory-risks.md
+│
+├── 03-risk-assessment/
+│ ├── risk-scoring-methodology.md
+│ ├── risk-matrix.md
+│ └── risk-heatmap.png
+│
+├── 04-risk-response/
+│ ├── risk-treatment-plan.md
+│ ├── control-catalog.md
+│ └── mitigation-strategies.md
+│
+├── 05-monitoring-reporting/
+│ ├── kri-dashboard.md
+│ ├── reporting-templates.md
+│ └── continuous-monitoring.md
+│
+├── templates/
+│ └── [Reusable templates]
+│
+└── resources/
+└── references.md
+
+
+## 🚀 Key Features
+
+- **Agentic AI Risk Framework** — First-of-its-kind risk taxonomy for autonomous AI agents
+- **EU AI Act Compliance Mapping** — Risk controls mapped to regulatory requirements
+- **Practical Templates** — Ready-to-use risk registers, assessment matrices, and reports
+- **CRISC Aligned** — Built on ISACA's risk management methodology
+
+## 📊 Risk Categories Covered
+
+| Category | Description |
+|----------|-------------|
+| Strategic | Market, competition, and business model risks |
+| Operational | Service delivery and operational resilience |
+| AI/Model | Bias, drift, explainability, and performance |
+| Agentic AI | Autonomous agent-specific risks |
+| Cybersecurity | Data protection, access control, and threats |
+| Regulatory | Compliance with AI-specific regulations |
+| Third-Party | Vendor and supply chain risks |
+| Financial | Cash flow, funding, and revenue risks |
+
+## 📈 Project Progress
+
+| Phase | Status |
+|-------|--------|
+| Risk Identification | ✅ Complete |
+| Risk Assessment | 🔄 In Progress |
+| Risk Response | ⏳ Upcoming |
+| Monitoring & Reporting | ⏳ Upcoming |
+
+## 📜 License
+
+MIT License — Feel free to use and adapt for your own learning.
+
+## 🤝 Connect With Me
+
+- [LinkedIn](https://linkedin.com/in/opeyemi-beatrice)
+- Currently studying for CRISC certification
+
+## 📝 About This Project
+
+🔄 **Work in Progress** — This repository is updated as I progress through my CRISC studies.
+
+*This project is part of my learning journey in IT risk management and AI governance.*
+
+---
+
+⭐ If you find this useful, please star the repository!
+
