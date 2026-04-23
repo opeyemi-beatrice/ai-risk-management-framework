@@ -24,37 +24,7 @@ A fictional RegTech company providing AI governance solutions to enterprises nav
 - SR 11-7 (Model Risk Management)
 
 ## 📂 Repository Structure
-├── 01-governance/
-│ ├── ai-governance-framework.md
-│ ├── risk-appetite-statement.md
-│ └── roles-responsibilities.md
-│
-├── 02-risk-identification/
-│ ├── risk-register.md
-│ ├── agentic-ai-risks.md
-│ ├── model-risks.md
-│ └── regulatory-risks.md
-│
-├── 03-risk-assessment/
-│ ├── risk-scoring-methodology.md
-│ ├── risk-matrix.md
-│ └── risk-heatmap.png
-│
-├── 04-risk-response/
-│ ├── risk-treatment-plan.md
-│ ├── control-catalog.md
-│ └── mitigation-strategies.md
-│
-├── 05-monitoring-reporting/
-│ ├── kri-dashboard.md
-│ ├── reporting-templates.md
-│ └── continuous-monitoring.md
-│
-├── templates/
-│ └── [Reusable templates]
-│
-└── resources/
-└── references.md
+## 📂 Repository Structure
 
 
 ## 🚀 Key Features
